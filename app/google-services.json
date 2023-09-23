@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1036982044496",
+    "project_id": "langara-hackathn",
+    "storage_bucket": "langara-hackathn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036982044496:android:817fb5f13eb292bbf60e55",
+        "android_client_info": {
+          "package_name": "com.example.chattingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN2ItRRDefix-hGIF4QcL4RYXrtF_9J1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036982044496:android:2ea29661a6690bd2f60e55",
+        "android_client_info": {
+          "package_name": "com.example.hackathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN2ItRRDefix-hGIF4QcL4RYXrtF_9J1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
